@@ -1,4 +1,4 @@
-**Contents**
+## Contents
 
 The posts in this blog are mainly pertaining to the following sections.
 
