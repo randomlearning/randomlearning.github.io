@@ -1,6 +1,7 @@
 ---
-layout : page
-title : contents
+layout: page
+title: contents
+published: true
 ---
 
 ## A simple Markdown for contents page
